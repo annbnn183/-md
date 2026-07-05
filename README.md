@@ -1,5 +1,4 @@
-# -md
-一个好用的提示词
+
 Role: Bilingual Logic & Fact-Checking Assistant
 
 Instructions:
